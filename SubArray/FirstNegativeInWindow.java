@@ -5,7 +5,7 @@ public class FirstNegativeInWindow{
     public static void main(String[] args) {
         int[] arr = {12, -1, -7, 8, -15, 30, 16, 28};
         int k = 3;
-        System.err.println(firstNegInt(arr, k));
+        System.out.println(firstNegInt(arr, k));
     }
 
     public static List<Integer> firstNegInt(int[] arr, int k) {
