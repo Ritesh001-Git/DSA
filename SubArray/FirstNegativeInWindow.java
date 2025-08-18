@@ -1,4 +1,4 @@
-// Removed unused import
+
 import java.util.*;
 
 public class FirstNegativeInWindow{
