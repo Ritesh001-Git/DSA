@@ -4,7 +4,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 ## Table of Contents
 
-- [Arrays](#Array)
+- [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array)
 - [Strings](#strings)
 - [Linked Lists](#linked-lists)
 - [Subarrays](#Subarrays)
