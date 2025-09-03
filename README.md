@@ -28,3 +28,5 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |---| ------- | -------- | ---------- |
 | 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/AddTwoNumbers.java) | Medium |
 | 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/Merge2SortedList.java) | Easy |
+| 3 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/RemoveNthNodeFromEnd.java) | Medium |
+| 4 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/RotateList.java) | Medium |
