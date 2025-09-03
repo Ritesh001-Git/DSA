@@ -22,3 +22,9 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 5 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/RotateArray.java) | Medium |
 | 6 | [Pascle Triangle](https://leetcode.com/problems/pascals-triangle/submissions/1757905793/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/Pascaltriangle.java) | Easy |
 | 7 | [Pascle Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/PascleTriangle2.java) | Easy |
+
+## Linked List
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
+| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/AddTwoNumbers.java) | Medium |
+| 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/Merge2SortedList.java) | Easy |
