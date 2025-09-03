@@ -20,4 +20,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 3 | [3Sum Closet](https://leetcode.com/problems/3sum-closest/description/) | [Solution](./arrays/container-most-water.cpp) | Medium |
 | 4 | [4Sum](https://leetcode.com/problems/4sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/FourSum.java) | Medium |
 | 5 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/RotateArray.java) | Medium |
+| 3 | [Pascle Triangle](https://leetcode.com/problems/pascals-triangle/submissions/1757905793/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/Pascaltriangle.java) | Easy |
+
 
