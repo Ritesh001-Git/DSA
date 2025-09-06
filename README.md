@@ -47,3 +47,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestPalindromicSubstring.java) | Medium |
 | 3 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ReverseString.java) | Easy |
 
+## Sub Arrays
+
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
+| 1 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/MaximumSubarray.java) | Medium |
