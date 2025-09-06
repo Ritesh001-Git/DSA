@@ -37,3 +37,9 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
 | 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./Stack&Queue/ValidParentheses.java) | Easy |
+
+## Strings
+
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
+| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestPalindromicSubstring.java) | Medium |
