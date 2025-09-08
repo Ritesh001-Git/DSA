@@ -24,6 +24,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 7 | [Pascle Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/PascleTriangle2.java) | Easy |
 | 8 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/CountPairsWhoseSumIsLessThanTarget.java) | Easy |
 | 9 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MaximumAreaofLongestDiagonalRectangle.java) | Easy |
+| 10 | [Median of Two Sorted Array](https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=array) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MedianOfTwoSortedArray.java) | Hard |
+
 
 ## Linked List
 | # | Problem | Solution | Difficulty |
