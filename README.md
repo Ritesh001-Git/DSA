@@ -25,6 +25,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 8 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/CountPairsWhoseSumIsLessThanTarget.java) | Easy |
 | 9 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MaximumAreaofLongestDiagonalRectangle.java) | Easy |
 | 10 | [Median of Two Sorted Array](https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=array) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MedianOfTwoSortedArray.java) | Hard |
+| 11 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=array) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/SearchInsertPosition.java) | Easy |
 
 
 ## Linked List
