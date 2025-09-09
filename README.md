@@ -64,3 +64,4 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 4 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/SlidingWindowMedian.java) | Hard |
 
 ## Math
+| # | Problem | Solution | Difficulty |
