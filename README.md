@@ -28,6 +28,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 10 | [Median of Two Sorted Array](https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=array) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MedianOfTwoSortedArray.java) | Hard |
 | 11 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=array) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/SearchInsertPosition.java) | Easy |
 | 12 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ProductOfArrayExceptSelf.java) | Medium |
+| 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ContainerWithMostWater.java) | Medium |
 
 
 ## Linked List
