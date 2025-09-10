@@ -29,6 +29,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 11 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=array) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/SearchInsertPosition.java) | Easy |
 | 12 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ProductOfArrayExceptSelf.java) | Medium |
 | 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ContainerWithMostWater.java) | Medium |
+| 13 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/CountTheNumbersOffairPairs.java) | Medium |
+
 
 
 ## Linked List
