@@ -57,6 +57,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 3 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ReverseString.java) | Easy |
 | 4 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ZigzagConversion.java) | Medium |
 | 4 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestCommonPrefix.java) | Medium |
+| 5 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/SortVowelsInString.java) | Medium |
 
 
 ## Sub Arrays
