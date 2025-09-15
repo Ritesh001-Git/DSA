@@ -60,6 +60,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 6 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/SortVowelsInString.java) | Medium |
 | 7 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/VowelsGameInString.java) | Medium |
 | 8 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/FindMostFrequentVowelandConsonant.java) | Easy |
+| 9 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/MaximumNumberofWordsYouCanType.java) | Easy |
 
 
 ## Sub Arrays
