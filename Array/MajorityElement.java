@@ -16,5 +16,6 @@ class MajorityElement{
         }
         return -1;
     }
+    
 
 }
