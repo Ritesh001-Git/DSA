@@ -19,7 +19,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/TwoSum.java) | Easy |
 | 2 | [15. 3Sum](https://leetcode.com/problems/3sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/3Sum.java) | Medium |
 | 3 | [16. 3Sum Closet](https://leetcode.com/problems/3sum-closest/description/) | [Solution](./arrays/container-most-water.cpp) | Medium |
-| 4 | [4Sum](https://leetcode.com/problems/4sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/FourSum.java) | Medium |
+| 4 | [18. 4Sum](https://leetcode.com/problems/4sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/FourSum.java) | Medium |
 | 5 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/RotateArray.java) | Medium |
 | 6 | [Pascle Triangle](https://leetcode.com/problems/pascals-triangle/submissions/1757905793/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/Pascaltriangle.java) | Easy |
 | 7 | [Pascle Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/PascleTriangle2.java) | Easy |
