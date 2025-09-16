@@ -31,7 +31,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 13 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ContainerWithMostWater.java) | Medium |
 | 13 | [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/CountTheNumbersOffairPairs.java) | Medium |
 | 13 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/FirstMissingpositive.java) | Hard |
-| 14 | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=array) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MajorityElement.java) | Easy |
+| 14 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=array) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MajorityElement.java) | Easy |
 | 15 | [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ReplaceNonCoprimeNumbersInArray.java) | Hard |
 
 ## Linked List
