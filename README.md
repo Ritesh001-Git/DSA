@@ -78,3 +78,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
 | 1 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Math/ReverseInteger.java) | Medium |
+
+## Mislanious
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
