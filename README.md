@@ -82,4 +82,5 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Mislanious
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
-| 2 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Mislanious/FoodRatings.java) | Medium |
+| 1 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Mislanious/FoodRatings.java) | Medium |
+
