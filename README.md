@@ -83,4 +83,5 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
 | 1 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Mislanious/FoodRatings.java) | Medium |
+| 2 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Mislanious/TaskManager.java) | Medium |
 
