@@ -10,7 +10,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray)
 - [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue)
 - [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math)
-- [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Mislanious)
+- [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design)
 
 
 ## Arrays
@@ -84,4 +84,5 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |---| ------- | -------- | ---------- |
 | 1 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Mislanious/FoodRatings.java) | Medium |
 | 2 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Mislanious/TaskManager.java) | Medium |
+| 3 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Design/TaskManager.java) | Medium |
 
