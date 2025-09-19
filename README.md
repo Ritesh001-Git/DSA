@@ -48,7 +48,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
-| 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./Stack&Queue/ValidParentheses.java) | Easy |
+| 1 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./Stack&Queue/ValidParentheses.java) | Easy |
 
 ## Strings
 
