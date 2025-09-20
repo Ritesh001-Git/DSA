@@ -85,4 +85,5 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 1 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Mislanious/FoodRatings.java) | Medium |
 | 2 | [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Mislanious/TaskManager.java) | Medium |
 | 3 | [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Design/TaskManager.java) | Medium |
+| 4 | [3508. Implement Router](https://leetcode.com/problems/implement-router/description/?envType=daily-question&envId=2025-09-20) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Design/Router.java) | Medium |
 
