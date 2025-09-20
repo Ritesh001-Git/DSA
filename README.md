@@ -71,7 +71,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |---| ------- | -------- | ---------- |
 | 1 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/MaximumSubarray.java) | Medium |
 | 2 | [GFG Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/MaximumSumSizeK.java) | Medium |
-| 3 | [First negative in every window of size k](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/FirstNegativeInWindow.java) | Medium |
+| 3 | [GFG First negative in every window of size k](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/FirstNegativeInWindow.java) | Medium |
 | 4 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/SlidingWindowMedian.java) | Hard |
 
 ## Math
