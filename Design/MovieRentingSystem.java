@@ -16,7 +16,7 @@ public class MovieRentingSystem {
         for (int[] e : entries) {
             int shop = e[0], movie = e[1], price = e[2];
             priceMap.put(Arrays.asList(shop, movie), price);
-            available.computeIfAbsent(movie, k -> new TreeSet<>((x, y) -> {
+            available.computeIfAbsent(movie, _ -> new TreeSet<>((x, y) -> {
                 if (x[2] != y[2]) return x[2] - y[2];   // price
                 return x[0] - y[0];                     // shop
             })).add(new int[]{shop, movie, price});
