@@ -10,7 +10,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#sub-arrays)
 - [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#stack--queue)
 - [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#math)
-- [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
+- [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#design)
 
 
 ## Arrays
