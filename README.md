@@ -8,7 +8,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
 - [Linked Lists](https://github.com/Ritesh001-Git/DSA/tree/main/LinkedList) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#linked-list)
 - [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#sub-arrays)
-- [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
+- [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#stack--queue)
 - [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
 - [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
 
