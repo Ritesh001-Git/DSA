@@ -4,7 +4,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 ## Table of Contents
 
-- [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array) --> [PROBLEMS](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#arrays)
+- [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array) | [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#arrays)
 - [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings)
 - [Linked Lists](https://github.com/Ritesh001-Git/DSA/tree/main/LinkedList)
 - [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray)
