@@ -59,7 +59,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestPalindromicSubstring.java) | Medium |
 | 3 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ReverseString.java) | Easy |
 | 4 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ZigzagConversion.java) | Medium |
-| 5 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestCommonPrefix.java) | Medium |
+| 5 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestCommonPrefix.java) | Medium |
 | 6 | [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/SortVowelsInString.java) | Medium |
 | 7 | [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/VowelsGameInString.java) | Medium |
 | 8 | [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/FindMostFrequentVowelandConsonant.java) | Easy |
