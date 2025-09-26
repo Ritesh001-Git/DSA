@@ -65,7 +65,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 8 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/FindMostFrequentVowelandConsonant.java) | Easy |
 | 9 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/MaximumNumberofWordsYouCanType.java) | Easy |
 | 10 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/CompareVersionNumbers.java) | Medium |
-
+| 11 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/FractiontoRecurringDecimal.java) | Medium |
 
 ## Sub Arrays
 
