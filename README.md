@@ -55,7 +55,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
-| 1 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestPalindromicSubstring.java) | Medium |
+| 1 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestPalindromicSubstring.java) | Medium |
 | 2 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/LongestPalindromicSubstring.java) | Medium |
 | 3 | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ReverseString.java) | Easy |
 | 4 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ZigzagConversion.java) | Medium |
