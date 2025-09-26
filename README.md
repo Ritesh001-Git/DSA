@@ -5,8 +5,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Table of Contents
 
 - [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#arrays)
-- [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#stack--queue)
-- [Linked Lists](https://github.com/Ritesh001-Git/DSA/tree/main/LinkedList) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
+- [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
+- [Linked Lists](https://github.com/Ritesh001-Git/DSA/tree/main/LinkedList) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#linked-list)
 - [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#sub-arrays)
 - [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
 - [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
