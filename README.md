@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various Data Structures and Algorithms problems, organized by topic.
 
-# 🧠 NeetCode 150 DSA Progress Tracker
+## [🧠 NeetCode 150](https://neetcode.io/practice?tab=neetcode150) 
 
 ---
 
@@ -12,13 +12,13 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |---------------------------
 | Arrays & Hashing          
 | Two Pointers              
-| Sliding Window            | 0         | 6     | ░░░░░░░░░ 0% |
-| Stack                     | 0         | 7     | ░░░░░░░░░ 0% |
-| Binary Search             | 0         | 7     | ░░░░░░░░░ 0% |
-| Linked List               | 0         | 11    | ░░░░░░░░░ 0% |
-| Trees                     | 0         | 15    | ░░░░░░░░░ 0% |
-| Heap / Priority Queue     | 0         | 7     | ░░░░░░░░░ 0% |
-| Backtracking              | 0         | 9     | ░░░░░░░░░ 0% |
+| Sliding Window            
+| Stack                     
+| Binary Search             
+| Linked List               
+| Trees                     
+| Heap / Priority Queue     
+| Backtracking              
 | Tries                     
 | Graphs                    
 | Advanced Graphs           
