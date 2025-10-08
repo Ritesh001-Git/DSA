@@ -2,6 +2,36 @@
 
 This repository contains my solutions to various Data Structures and Algorithms problems, organized by topic.
 
+# 🧠 NeetCode 150 DSA Progress Tracker
+
+---
+
+## 📊 Progress Overview
+
+| Category                 
+|---------------------------
+| Arrays & Hashing          
+| Two Pointers              
+| Sliding Window            | 0         | 6     | ░░░░░░░░░ 0% |
+| Stack                     | 0         | 7     | ░░░░░░░░░ 0% |
+| Binary Search             | 0         | 7     | ░░░░░░░░░ 0% |
+| Linked List               | 0         | 11    | ░░░░░░░░░ 0% |
+| Trees                     | 0         | 15    | ░░░░░░░░░ 0% |
+| Heap / Priority Queue     | 0         | 7     | ░░░░░░░░░ 0% |
+| Backtracking              | 0         | 9     | ░░░░░░░░░ 0% |
+| Tries                     
+| Graphs                    
+| Advanced Graphs           
+| 1-D Dynamic Programming   
+| 2-D Dynamic Programming   
+| Greedy                    
+| Intervals                 
+| Math & Geometry           
+| Bit Manipulation          
+
+---
+
+
 ## Table of Contents
 
 - [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#arrays)
