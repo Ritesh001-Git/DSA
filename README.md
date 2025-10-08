@@ -2,6 +2,16 @@
 
 This repository contains my solutions to various Data Structures and Algorithms problems, organized by topic.
 
+## Table of Contents
+- [NeetCode](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#-neetcode-150) » [Problems]()
+- [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#arrays)
+- [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
+- [Linked Lists](https://github.com/Ritesh001-Git/DSA/tree/main/LinkedList) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#linked-list)
+- [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#sub-arrays)
+- [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#stack--queue)
+- [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#math)
+- [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#design)
+
 ## [🧠 NeetCode 150](https://neetcode.io/practice?tab=neetcode150) 
 
 ---
@@ -16,18 +26,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | [🔗 Linked List](./topics/linked_list.md) | [🚀 Advanced Graphs](./topics/advanced_graphs.md) | [💻 Bit Manipulation](./topics/bit_manipulation.md) |      
                
 ---
-
-
-## Table of Contents
-
-- [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#arrays)
-- [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
-- [Linked Lists](https://github.com/Ritesh001-Git/DSA/tree/main/LinkedList) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#linked-list)
-- [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#sub-arrays)
-- [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#stack--queue)
-- [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#math)
-- [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#design)
-
 
 ## Arrays
 
