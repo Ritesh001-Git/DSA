@@ -4,6 +4,7 @@ public class BestTimeToBuySellStocks {
         System.out.println(maxProfit(prices)); // Output: 5
         System.out.println(maxProfit2(prices)); // Output: 5
     }
+    // Two Pointer Approach
     public static int maxProfit(int[] prices) {
         int l=0,r=1;
         int maxProfit=0;
@@ -18,6 +19,7 @@ public class BestTimeToBuySellStocks {
         }
         return maxProfit;
     }
+    // Dynamin Programming Approach
     public static int maxProfit2(int[] prices) {
         int maxProfit=0;
         int minPrice=prices[0];
