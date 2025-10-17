@@ -7,6 +7,7 @@ public class LongestSubStringWithoutRepeatingCharacters {
         int result = lengthOfLongestSubstring(s);
         System.out.println("Length of longest substring without repeating characters: " + result); // Output: 3
     }
+    // Sliding Window Approach
     public static  int lengthOfLongestSubstring(String s) {
         Set<Character> set=new HashSet<>();
         int max=0;
