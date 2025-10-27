@@ -1,7 +1,7 @@
 import java.util.*;
 public class ClosestPrimeNumbersinRange {
     public static void main(String[] args) {
-        int left = 50000000, right = 100000000;
+        int left = 1, right = 1000000;
         int[] result = closestPrimes(left, right);
         System.out.println("Closest primes between " + left + " and " + right + ": [" + result[0] + ", " + result[1] + "]");
     }
