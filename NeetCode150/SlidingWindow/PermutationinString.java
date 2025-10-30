@@ -10,7 +10,7 @@ public class PermutationinString {
         System.out.println("Does s2 contain a permutation of s1? " + result);
     }
 
-    
+    // Brute Force Approach
     public static boolean checkInclusion1(String s1, String s2) {
         for(int i=0; i<=s2.length()-s1.length(); i++){
             String s=s2.substring(i,i+s1.length());
@@ -22,6 +22,8 @@ public class PermutationinString {
         }
         return false;
     }
+
+    // Sliding Window Approach
     public static boolean checkInclusion2(String s1, String s2) {
         int m=s1.length();
         int n=s2.length();
