@@ -108,3 +108,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 4 | [3508. Implement Router](https://leetcode.com/problems/implement-router/description/?envType=daily-question&envId=2025-09-20) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Design/Router.java) | Medium |
 | 5 | [1912. Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Design/MovieRentingSystem.java) | Hard |
 
+## Prime
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
