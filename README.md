@@ -11,7 +11,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#stack--queue)
 - [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#math)
 - [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#design)
-- [Prime](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main/Prime)
+- [Prime](https://github.com/Ritesh001-Git/DSA/tree/main/Prime) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#prime)
 
 ## [🧠 NeetCode 150](https://neetcode.io/practice?tab=neetcode150) 
 
