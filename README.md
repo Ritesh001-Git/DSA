@@ -111,3 +111,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Prime
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
+| 1 | [204. Count Primes](https://leetcode.com/problems/count-primes/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/CountPrimes.java) | Medium |
+
+
