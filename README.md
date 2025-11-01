@@ -117,6 +117,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 4 | [GFG Collections of Pens](https://www.geeksforgeeks.org/problems/collection-of-pens1843/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/CollectionOfPens.java) | Easy |
 | 5 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/ClosestPrimeNumbersinRange.java) | Medium |
 | 6 | [3115. Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/MaximumPrimeDifference.java) | Medium |
+| 7 | [2761. Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/PrimePairsWithTargetSum.java) | Medium |
+
 
 
 
