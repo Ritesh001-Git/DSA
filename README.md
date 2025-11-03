@@ -60,6 +60,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 3 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/RemoveNthNodeFromEnd.java) | Medium |
 | 4 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/RotateList.java) | Medium |
 | 5 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/SwapPairs.java) | Medium |
+| 6 | [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/LinkedList/DeleteNodesFromLinkedListPresentinArray.java) | Medium |
+
 
 ## Stack & Queue
 
