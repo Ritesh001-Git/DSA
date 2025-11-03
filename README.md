@@ -128,7 +128,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
 | 1 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/CountUnguardedCellsintheGrid.java) | Medium |
-| 2 | [GFG Twin Primes](https://www.geeksforgeeks.org/maths/twin-prime/#twin-primes-worksheet) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/TwinPrime.java) | Medium |
+| 2 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/SudokuChecker.java) | Medium |
 
 
 
