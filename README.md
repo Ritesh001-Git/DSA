@@ -124,7 +124,11 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 7 | [2761. Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/PrimePairsWithTargetSum.java) | Medium |
 | 8 | [866. Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/PrimePalindrome.java) | Medium |
 
-
+## Matrix
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
+| 1 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/CountUnguardedCellsintheGrid.java) | Medium |
+| 2 | [GFG Twin Primes](https://www.geeksforgeeks.org/maths/twin-prime/#twin-primes-worksheet) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/TwinPrime.java) | Medium |
 
 
 
