@@ -4,6 +4,7 @@ public class MinimumTimetoMakeRopeColorful {
         int[] neededTime = {1,2,3,4,5,6,7};
         System.out.println(minCost(colors, neededTime)); // Output: 6
     }
+    
     public static int minCost(String colors, int[] neededTime) {
         int n=0;
         for(int i=1; i<colors.length(); i++){
