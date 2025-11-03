@@ -51,6 +51,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 15 | [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ReplaceNonCoprimeNumbersInArray.java) | Hard |
 | 16 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/CountElementsWithMaximumFrequency.java) | Easy |
 | 17 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ValidTriangleNumber.java) | Medium |
+| 18 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MinimumTimetoMakeRopeColorful.java) | Medium |
+
 
 ## Linked List
 | # | Problem | Solution | Difficulty |
