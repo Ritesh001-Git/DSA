@@ -6,7 +6,7 @@ public class FindXSumofAllKLongSubarraysI {
         int k = 6;
         int x = 2;
         int[] ans = findXSum(arr, k, x);
-        System.out.println(Arrays.toString(ans)); // Output: [8, 11, 14]
+        System.out.println(Arrays.toString(ans)); // Output: [6, 10, 12]
     }
     public static int[] findXSum(int[] nums, int k, int x) {
         int n=nums.length;
@@ -14,13 +14,15 @@ public class FindXSumofAllKLongSubarraysI {
         for(int i=0; i<=n-k; i++){
             Map<Integer,Integer> mp=new HashMap<>();
             for(int j=i; j<i+k; j++){
-                mp.put(nums[i],mp.getOrDefault(nums[j],0)+1);
+                mp.put(nums[j],mp.getOrDefault(nums[j],0)+1);
             }
             List<Integer> l=new ArrayList<>(mp.keySet());
-            l.sort((a,b)->mp.get(b)==mp.get(a)?b-a:mp.get(b)-mp.get(a));
+            l.sort((a,b)->mp.get(b).equals(mp.get(a))?b-a:mp.get(b)-mp.get(a));
             int sum=0;
             for(int j=0; j<Math.min(x,l.size()); j++){
-                sum+=l.get(j);
+                int num=l.get(j);
+                sum+=num*mp.get(num);
+
             }
             res[i]=sum;
         }
