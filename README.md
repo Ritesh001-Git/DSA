@@ -91,6 +91,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 12 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ValidPalindrome.java) | Easy |
 | 13 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ValidAnagram.java) | Easy |
 | 14 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/EncodeAndDecodeStrings.java) | Medium |
+| 15 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/GroupAnagrams.java) | Medium |
 
 ## Sub Arrays
 
