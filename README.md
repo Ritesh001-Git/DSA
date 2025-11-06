@@ -88,6 +88,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 9 | [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/MaximumNumberofWordsYouCanType.java) | Easy |
 | 10 | [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/CompareVersionNumbers.java) | Medium |
 | 11 | [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/FractiontoRecurringDecimal.java) | Medium |
+| 12 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/ValidPalindrome.java) | Easy |
 
 ## Sub Arrays
 
