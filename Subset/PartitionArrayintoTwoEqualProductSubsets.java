@@ -7,7 +7,7 @@ public class PartitionArrayintoTwoEqualProductSubsets {
     public static boolean checkEqualPartitions(int[] nums,long target){
         return slove(nums,0,1,1,target);
     }
-    public static boolean slove(int[] nums,int idx,int curr1,int curr2,long target){
+    public static boolean slove(int[] nums,int idx,long curr1,long curr2,long target){
         if(idx==nums.length) return curr1==target && curr2==target;
         if(curr1>target || curr2>target) return false;
 
