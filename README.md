@@ -140,7 +140,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Subset
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
-| 1 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/CountUnguardedCellsintheGrid.java) | Medium |
+| 1 | [3566. Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/PartitionArrayintoTwoEqualProductSubsets.java) | Medium |
 
 
 
