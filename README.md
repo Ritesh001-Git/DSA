@@ -13,6 +13,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#design)
 - [Prime](https://github.com/Ritesh001-Git/DSA/tree/main/Prime) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#prime)
 - [Matrix](https://github.com/Ritesh001-Git/DSA/tree/main/Matrix) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#matrix)
+- [Subset](https://github.com/Ritesh001-Git/DSA/tree/main/Subset) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#subset)
+
 
 
 ## [🧠 NeetCode 150](https://neetcode.io/practice?tab=neetcode150) 
@@ -137,7 +139,10 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 1 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/CountUnguardedCellsintheGrid.java) | Medium |
 | 2 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/SudokuChecker.java) | Medium |
 
-
+## Subset
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
+| 1 | [3566. Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/PartitionArrayintoTwoEqualProductSubsets.java) | Medium |
 
 
 
