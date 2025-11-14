@@ -57,7 +57,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 17 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ValidTriangleNumber.java) | Medium |
 | 18 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MinimumTimetoMakeRopeColorful.java) | Medium |
 
-
 ## Linked List
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
@@ -98,6 +97,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 17 | [GFG Sum-string](https://www.geeksforgeeks.org/problems/sum-string3151/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/SumStrings.java) | Hard |
 | 18 | [415. Add Strings](https://leetcode.com/problems/add-strings/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/AddString.java) | Easy |
 | 19 | [GFG Generate all binary strings](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/GenerateAllBinaryStrings.java) | Medium |
+| 20 | [3211. Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/GenerateBinaryStringsWithoutAdjacentZeros.java) | Medium |
 
 
 ## Sub Arrays
