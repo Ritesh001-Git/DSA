@@ -98,6 +98,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 18 | [415. Add Strings](https://leetcode.com/problems/add-strings/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/AddString.java) | Easy |
 | 19 | [GFG Generate all binary strings](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/GenerateAllBinaryStrings.java) | Medium |
 | 20 | [3211. Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/GenerateBinaryStringsWithoutAdjacentZeros.java) | Medium |
+| 21 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/DifferentWaystoAddParentheses.java) | Medium |
+
 
 
 ## Sub Arrays
