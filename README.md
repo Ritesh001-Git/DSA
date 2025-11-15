@@ -57,7 +57,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 17 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ValidTriangleNumber.java) | Medium |
 | 18 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MinimumTimetoMakeRopeColorful.java) | Medium |
 
-
 ## Linked List
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
@@ -95,6 +94,11 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 14 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/EncodeAndDecodeStrings.java) | Medium |
 | 15 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/GroupAnagrams.java) | Medium |
 | 16 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/PermutationinString.java) | Medium |
+| 17 | [GFG Sum-string](https://www.geeksforgeeks.org/problems/sum-string3151/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/SumStrings.java) | Hard |
+| 18 | [415. Add Strings](https://leetcode.com/problems/add-strings/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/AddString.java) | Easy |
+| 19 | [GFG Generate all binary strings](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/GenerateAllBinaryStrings.java) | Medium |
+| 20 | [3211. Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Strings/GenerateBinaryStringsWithoutAdjacentZeros.java) | Medium |
+
 
 ## Sub Arrays
 
@@ -139,6 +143,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |---| ------- | -------- | ---------- |
 | 1 | [2257. Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/CountUnguardedCellsintheGrid.java) | Medium |
 | 2 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/SudokuChecker.java) | Medium |
+| 3 | [GFG Water Overflow](https://www.geeksforgeeks.org/problems/generate-all-binary-strings/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Matrix/WaterOverFlow.java) | Medium |
+
 
 ## Subset
 | # | Problem | Solution | Difficulty |
