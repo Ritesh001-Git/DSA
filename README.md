@@ -56,6 +56,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 16 | [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/CountElementsWithMaximumFrequency.java) | Easy |
 | 17 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ValidTriangleNumber.java) | Medium |
 | 18 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MinimumTimetoMakeRopeColorful.java) | Medium |
+| 19 | [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/CheckIfAll1sAreatLeastLengthKPlacesAway.java) | Easy |
+
 
 ## Linked List
 | # | Problem | Solution | Difficulty |
