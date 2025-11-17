@@ -151,7 +151,9 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Subset
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
-| 1 | [3566. Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/PartitionArrayintoTwoEqualProductSubsets.java) | Medium |
+| 1 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/Subsets.java) | Medium |
+| 2 | [3566. Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/PartitionArrayintoTwoEqualProductSubsets.java) | Medium |
+
 
 
 
