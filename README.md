@@ -153,6 +153,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 |---| ------- | -------- | ---------- |
 | 1 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/Subsets.java) | Medium |
 | 2 | [3566. Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/PartitionArrayintoTwoEqualProductSubsets.java) | Medium |
+| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/CombinationSum.java) | Medium |
 
 
 
