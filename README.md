@@ -57,6 +57,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 17 | [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/ValidTriangleNumber.java) | Medium |
 | 18 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/MinimumTimetoMakeRopeColorful.java) | Medium |
 | 19 | [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/CheckIfAll1sAreatLeastLengthKPlacesAway.java) | Easy |
+| 20 | [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Array/KeepMultiplyingFoundValuesbyTwo.java) | Easy |
 
 
 ## Linked List
