@@ -122,6 +122,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 2 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Math/WaterBottles.java) | Easy |
 | 3 | [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Math/WaterBottles2.java) | Medium |
 | 4 | [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Math/CountOperationstoObtainZero.java) | Easy |
+| 5 | [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Math/SmallestIntegerDivisiblebyK.java) | Medium |
+
 
 ## Design 
 | # | Problem | Solution | Difficulty |
