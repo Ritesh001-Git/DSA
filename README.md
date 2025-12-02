@@ -14,6 +14,10 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [Prime](https://github.com/Ritesh001-Git/DSA/tree/main/Prime) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#prime)
 - [Matrix](https://github.com/Ritesh001-Git/DSA/tree/main/Matrix) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#matrix)
 - [Subset](https://github.com/Ritesh001-Git/DSA/tree/main/Subset) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#subset)
+- [Dynamin Programing](https://github.com/Ritesh001-Git/DSA/tree/main/DynamicProgramming) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#dynamic-programming)
+- [Recursion](https://github.com/Ritesh001-Git/DSA/tree/main/Recursion) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#recursion)
+
+
 
 
 
