@@ -161,6 +161,12 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 2 | [3566. Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/PartitionArrayintoTwoEqualProductSubsets.java) | Medium |
 | 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/CombinationSum.java) | Medium |
 
+## Dynamic Programming
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
+| 1 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/FibonacciNumber.java) | Easy |
+| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/CombinationSum.java) | Medium |
+
 
 
 
