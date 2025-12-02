@@ -165,9 +165,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
 | 1 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/FibonacciNumber.java) | Easy |
-| 3 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Subset/CombinationSum.java) | Medium |
 
-
-
-
-
+## Recursion
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
+| 1 | [79. Word Search](https://leetcode.com/problems/word-search/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Recursion/WordSearch.java) | Medium |
