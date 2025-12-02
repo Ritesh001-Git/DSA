@@ -169,6 +169,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
 | 1 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/FibonacciNumber.java) | Easy |
+| 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
 
 ## Recursion
 | # | Problem | Solution | Difficulty |
