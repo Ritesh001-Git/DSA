@@ -11,9 +11,7 @@ public class PartitionArrayintoTwoEqualProductSubsets {
         if(idx==nums.length) return curr1==target && curr2==target;
         if(curr1>target || curr2>target) return false;
 
-        if(slove(nums,idx+1,curr1*nums[idx],curr2,target)) return true;
-        if(slove(nums,idx+1,curr1,curr2*nums[idx],target)) return true;
+        return slove(nums,idx+1,curr1*nums[idx],curr2,target);
 
-        return false;
     }
 }
