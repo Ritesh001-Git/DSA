@@ -5,6 +5,7 @@ public class LongestCommonSubsequence {
         String text1 = "pmjghexybyrgzczy", text2 = "hafcdqbgncrcbihkd";
         System.out.println(longestCommonSubsequence(text1,text2));
         System.out.println(longestCommonSubsequence1(text1,text2));
+        System.out.println(longestCommonSubsequence2(text1,text2));
     }
 
     // Recursion (TLE)
@@ -32,5 +33,21 @@ public class LongestCommonSubsequence {
         if(dp[i][j]!=-1) return dp[i][j];
         if(text1.charAt(i)==text2.charAt(j)) return 1+lcs(i-1,j-1,text1,text2,dp);
         return dp[i][j]=Math.max(lcs(i,j-1,text1,text2,dp),lcs(i-1,j,text1,text2,dp));
+    }
+
+    // Tabulation DP (Bottom-Up DP)
+    public static int longestCommonSubsequence2(String text1,String text2){
+        int n1=text1.length(),n2=text2.length();
+        int[][] dp=new int[n1+1][n2+1];
+        for(int i=1; i<=n1; i++){
+            for(int j=1; j<=n2; j++){
+                if(text1.charAt(i-1)==text2.charAt(j-1)){
+                    dp[i][j]=1+dp[i-1][j-1];
+                }else{
+                    dp[i][j]=Math.max(dp[i][j-1],dp[i-1][j]);
+                }
+            }
+        }
+        return dp[n1][n2];
     }
 }
