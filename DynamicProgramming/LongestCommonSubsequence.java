@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class LongestCommonSubsequence {
     public static void main(String[] args) {
-        String text1 = "abcde", text2 = "ace";
+        String text1 = "pmjghexybyrgzczy", text2 = "hafcdqbgncrcbihkd";
         System.out.println(longestCommonSubsequence(text1,text2));
         System.out.println(longestCommonSubsequence1(text1,text2));
     }
