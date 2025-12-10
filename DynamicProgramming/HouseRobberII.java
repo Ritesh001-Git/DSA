@@ -3,6 +3,8 @@ public class HouseRobberII {
         int[] nums={1,2,3,1};
         System.out.println(rob(nums));
     }
+
+    // Tabulation DP (Bottom-Up DP)
     public static int rob(int[] nums){
         if(nums.length==1) return 0;
         int n=nums.length;
