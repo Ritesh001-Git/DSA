@@ -173,6 +173,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
 | 3 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/MinCostClimbingStairs.java) | Easy |
 | 4 | [GFG Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/TilingProblem.java) | Medium |
+| 5 | [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/HouseRobber.java) | Medium |
 
 ## Recursion
 | # | Problem | Solution | Difficulty |
