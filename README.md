@@ -174,8 +174,12 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 3 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/MinCostClimbingStairs.java) | Easy |
 | 4 | [GFG Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/TilingProblem.java) | Medium |
 | 5 | [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/HouseRobber.java) | Medium |
-| 5 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/HouseRobberII.java) | Medium |
-| 5 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestCommonSubsequence.java) | Medium |
+| 6 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/HouseRobberII.java) | Medium |
+| 7 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestCommonSubsequence.java) | Medium |
+| 8 | [GFG Box Stacking](https://www.geeksforgeeks.org/problems/box-stacking/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/BoxStacking.java) | Hard |
+| 9 | [1691. Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/MaximumHeightbyStackingCuboids.java) | Hard |
+
+
 
 ## Recursion
 | # | Problem | Solution | Difficulty |
