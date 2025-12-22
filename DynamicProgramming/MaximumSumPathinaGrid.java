@@ -14,8 +14,8 @@ public class MaximumSumPathinaGrid {
             Arrays.fill(dp[i], Long.MIN_VALUE);
         long sum=solve(dp,grid,0,0,n);
         System.out.println(sum);
-        sc.close();
         System.out.println(Arrays.deepToString(dp));
+        sc.close();
     }
 
     // Dynamic Programming Memoization(Top-Down)
