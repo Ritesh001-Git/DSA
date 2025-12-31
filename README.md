@@ -178,7 +178,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 7 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestCommonSubsequence.java) | Medium |
 | 8 | [GFG Box Stacking](https://www.geeksforgeeks.org/problems/box-stacking/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/BoxStacking.java) | Hard |
 | 9 | [1691. Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/MaximumHeightbyStackingCuboids.java) | Hard |
-| 9 | [1691. Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/MaximumHeightbyStackingCuboids.java) | Hard |
 
 ## Recursion
 | # | Problem | Solution | Difficulty |
