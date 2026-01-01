@@ -27,7 +27,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 | Category | Category | Category |
 |----------|----------|----------|
-| [📌 Arrays & Hashing](https://github.com/Ritesh001-Git/DSA/tree/main/NeetCode150/Arrays%26Hashing) | [🌳 Trees](./topics/trees.md) | [🧮 1-D Dynamic Programming](./topics/1d_dp.md) |
+| [📌 Arrays & Hashing](https://github.com/Ritesh001-Git/DSA/tree/main/NeetCode150/Arrays%26Hashing) | [🌳 Trees](./topics/trees.md) | [🧮 1-D Dynamic Programming](https://github.com/Ritesh001-Git/DSA/tree/main/NeetCode150/1D-DynamicProgramming) |
 | [↔️ Two Pointers](https://github.com/Ritesh001-Git/DSA/tree/main/NeetCode150/TwoPointers) | [⛰ Heap / Priority Queue](./topics/heap_priority_queue.md) | [🧭 2-D Dynamic Programming](./topics/2d_dp.md) |
 | [🔍 Sliding Window](https://github.com/Ritesh001-Git/DSA/tree/main/NeetCode150/SlidingWindow) | [🧠 Backtracking](./topics/backtracking.md) | [⚡ Greedy](./topics/greedy.md) |
 | [🧱 Stack](./topics/stack.md) | [🕸 Tries](./topics/tries.md) | [🧭 Intervals](./topics/intervals.md) |
