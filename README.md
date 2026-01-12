@@ -180,7 +180,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 9 | [1691. Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/MaximumHeightbyStackingCuboids.java) | Hard |
 | 10 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/PalindromicSubstrings.java) | Medium |
 | 11 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestPalindromicSubstring.java) | Medium |
-| 2 | [GFG nCr](https://www.geeksforgeeks.org/problems/ncr1019/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
+| 2 | [GFG nCr](https://www.geeksforgeeks.org/problems/ncr1019/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/nCr.java) | Medium |
 | 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
 | 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
 | 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
