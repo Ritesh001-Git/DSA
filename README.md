@@ -182,7 +182,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 11 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestPalindromicSubstring.java) | Medium |
 | 2 | [GFG nCr](https://www.geeksforgeeks.org/problems/ncr1019/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/nCr.java) | Medium |
 | 2 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/UniquePaths.java) | Medium |
-| 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
+| 2 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/EditDistance.java) | Easy |
 | 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
 | 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
 | 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
