@@ -186,8 +186,6 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 2 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/DominoandTrominoTiling.java) | Medium |
 | 2 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestIncreasingSubsequence.java) | Medium |
 | 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
-| 2 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/ClimbingStairs.java) | Easy |
-
 
 ## Recursion
 | # | Problem | Solution | Difficulty |
