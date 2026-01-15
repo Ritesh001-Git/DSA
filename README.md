@@ -180,11 +180,11 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 9 | [1691. Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/MaximumHeightbyStackingCuboids.java) | Hard |
 | 10 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/PalindromicSubstrings.java) | Medium |
 | 11 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestPalindromicSubstring.java) | Medium |
-| 2 | [GFG nCr](https://www.geeksforgeeks.org/problems/ncr1019/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/nCr.java) | Medium |
-| 2 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/UniquePaths.java) | Medium |
-| 2 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/EditDistance.java) | Easy |
-| 2 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/DominoandTrominoTiling.java) | Medium |
-| 2 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestIncreasingSubsequence.java) | Medium |
+| 12 | [GFG nCr](https://www.geeksforgeeks.org/problems/ncr1019/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/nCr.java) | Medium |
+| 13 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/UniquePaths.java) | Medium |
+| 14 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/EditDistance.java) | Easy |
+| 15 | [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/DominoandTrominoTiling.java) | Medium |
+| 16 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/DynamicProgramming/LongestIncreasingSubsequence.java) | Medium |
 
 ## Recursion
 | # | Problem | Solution | Difficulty |
