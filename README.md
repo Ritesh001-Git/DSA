@@ -192,4 +192,4 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ## Tree
 | # | Problem | Solution | Difficulty |
 |---| ------- | -------- | ---------- |
-| 1 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Recursion/WordSearch.java) | Medium |
+| 1 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Tree/BinaryTreeZigzagLevelOrderTraversal.java) | Medium |
