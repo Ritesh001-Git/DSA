@@ -189,3 +189,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 1 | [79. Word Search](https://leetcode.com/problems/word-search/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Recursion/WordSearch.java) | Medium |
 | 1 | [GFG Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Recursion/RatinaMaze.java) | Medium |
 
+## Tree
+| # | Problem | Solution | Difficulty |
+|---| ------- | -------- | ---------- |
+| 1 | [79. Word Search](https://leetcode.com/problems/word-search/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Recursion/WordSearch.java) | Medium |
