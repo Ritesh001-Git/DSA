@@ -16,7 +16,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [Subset](https://github.com/Ritesh001-Git/DSA/tree/main/Subset) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#subset)
 - [Dynamin Programing](https://github.com/Ritesh001-Git/DSA/tree/main/DynamicProgramming) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#dynamic-programming)
 - [Recursion](https://github.com/Ritesh001-Git/DSA/tree/main/Recursion) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#recursion)
-- [Tree](https://github.com/Ritesh001-Git/DSA/tree/main/Recursion) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main/Tree)
+- [Tree](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#recursion) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main/Tree)
 
 ## [🧠 NeetCode 150](https://neetcode.io/practice?tab=neetcode150) 
 
