@@ -117,7 +117,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 5 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/MaximumProductSubarray.java) | Medium |
 | 6 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/SubarraySumEqualsK.java) | Medium |
 | 7 | [CF 363B Fence](https://codeforces.com/problemset/problem/363/B) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/Fence.java) | Medium |
-| 8 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/SubarraySumEqualsK.java) | Medium |
+| 8 | [CF 702A Maximum Increase](https://codeforces.com/problemset/problem/702/A) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/SubArray/MaximumIncrease.java) | Medium |
 
 ## Math
 | # | Problem | Solution | Difficulty |
