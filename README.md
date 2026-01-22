@@ -147,6 +147,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 | 6 | [3115. Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/MaximumPrimeDifference.java) | Medium |
 | 7 | [2761. Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/PrimePairsWithTargetSum.java) | Medium |
 | 8 | [866. Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [Solution](https://github.com/Ritesh001-Git/DSA/blob/main/Prime/PrimePalindrome.java) | Medium |
+| 9 | [CF 26A Almost Prime](https://codeforces.com/problemset/problem/26/A) | [Solution](https://github.com/Ritesh001-Git/DSA/tree/main/Prime) | Medium |
 
 ## Matrix
 | # | Problem | Solution | Difficulty |
