@@ -1,6 +1,6 @@
-# Data Structures & Algorithms Practice
+# Data Structures & Algorithms and CP Practice
 
-This repository contains my solutions to various Data Structures and Algorithms problems, organized by topic.
+This repository contains my solutions to various Data Structures and Algorithms and CP problems, organized by topic.
 
 ## Table of Contents
 - [NeetCode 150](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#-neetcode-150) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main/NeetCode150)
