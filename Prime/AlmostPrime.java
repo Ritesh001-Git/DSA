@@ -1,8 +1,8 @@
-import java.util.*;
+// import java.util.*;
 public class AlmostPrime {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
+        // Scanner sc=new Scanner(System.in); 
+        int n=21;
         int[] cnt=new int[n+1];
         for(int i=2; i<=n; i++){
             if(cnt[i]==0){
@@ -17,6 +17,5 @@ public class AlmostPrime {
         }
 
         System.out.println(ans);
-        sc.close();
     }
 }
