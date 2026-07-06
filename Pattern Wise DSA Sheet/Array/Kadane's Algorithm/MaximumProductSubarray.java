@@ -1,4 +1,5 @@
-// S
+// TC = O(n)
+// SC - O(1)
 
 // Java Code
 
