@@ -3,20 +3,22 @@
 This repository contains my solutions to various Data Structures and Algorithms and CP problems, organized by topic.
 
 ## Table of Contents
-- [NeetCode 150](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#-neetcode-150) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main/NeetCode150)
-- [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#arrays)
-- [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#strings)
-- [Linked Lists](https://github.com/Ritesh001-Git/DSA/tree/main/LinkedList) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#linked-list)
-- [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#sub-arrays)
-- [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#stack--queue)
-- [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#math)
-- [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#design)
-- [Prime](https://github.com/Ritesh001-Git/DSA/tree/main/Prime) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#prime)
-- [Matrix](https://github.com/Ritesh001-Git/DSA/tree/main/Matrix) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#matrix)
-- [Subset](https://github.com/Ritesh001-Git/DSA/tree/main/Subset) » [Problems](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#subset)
-- [Dynamin Programing](https://github.com/Ritesh001-Git/DSA/tree/main/DynamicProgramming) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#dynamic-programming)
-- [Recursion](https://github.com/Ritesh001-Git/DSA/tree/main/Recursion) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main?tab=readme-ov-file#recursion)
-- [Tree](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#recursion) » [Problems](https://github.com/Ritesh001-Git/DSA/tree/main/Tree)
+- [NeetCode 150](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#-neetcode-150)
+- [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array)
+- [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings)
+- [Linked Lists](https://github.com/Ritesh001-Git/DSA/tree/main/LinkedList)
+- [Subarrays](https://github.com/Ritesh001-Git/DSA/tree/main/SubArray)
+- [Stack & Queue](https://github.com/Ritesh001-Git/DSA/tree/main/Stack%26Queue)
+- [Math](https://github.com/Ritesh001-Git/DSA/tree/main/Math)
+- [Design](https://github.com/Ritesh001-Git/DSA/tree/main/Design)
+- [Prime](https://github.com/Ritesh001-Git/DSA/tree/main/Prime)
+- [Matrix](https://github.com/Ritesh001-Git/DSA/tree/main/Matrix)
+- [Subset](https://github.com/Ritesh001-Git/DSA/tree/main/Subset)
+- [Dynamin Programing](https://github.com/Ritesh001-Git/DSA/tree/main/DynamicProgramming)
+- [Recursion](https://github.com/Ritesh001-Git/DSA/tree/main/Recursion)
+- [Tree](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#recursion)
+
+## Pattern Wise DSA Sheet
 
 ## [🧠 NeetCode 150](https://neetcode.io/practice?tab=neetcode150) 
 
