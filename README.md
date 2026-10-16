@@ -3,6 +3,7 @@
 This repository contains my solutions to various Data Structures and Algorithms and CP problems, organized by topic.
 
 ## Table of Contents
+- [Pattern Wise DSA Sheet](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet)
 - [NeetCode 150](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#-neetcode-150)
 - [Arrays](https://github.com/Ritesh001-Git/DSA/tree/main/Array)
 - [Strings](https://github.com/Ritesh001-Git/DSA/tree/main/Strings)
@@ -19,6 +20,21 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [Tree](https://github.com/Ritesh001-Git/DSA?tab=readme-ov-file#recursion)
 
 ## Pattern Wise DSA Sheet
+
+### 1. [Array](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/Array)
+
+- [Kadane's Algorithm](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/Array/Kadane's%20Algorithm)
+- [Prefix Sum](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/Array/Prefix%20Sum)
+- [Sliding Window](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/Array/Sliding%20Window)
+- [Two Pointers](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/Array/Two%20Pointer)
+
+### 2. [Dynamic Programming](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/DynamicProgramming)
+
+- [1D Linear DP](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/DynamicProgramming/1D-LinearDP)
+- [2D Linear DP](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/DynamicProgramming/2D-GridDP)
+
+### 3. [Game Theory](LINK)
+
 
 ## [🧠 NeetCode 150](https://neetcode.io/practice?tab=neetcode150) 
 
