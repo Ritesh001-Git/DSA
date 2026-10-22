@@ -1,3 +1,6 @@
+# Approach 1 - Recursion + memo
+# TC - O(n)
+# SC - O(n)
 class Solution:
     def maximumEnergy(self, energy: List[int], k: int) -> int:
         from functools import lru_cache
@@ -16,3 +19,18 @@ class Solution:
 
         return m
 
+# Approach 2 - Bottom Up
+# TC - O(n)
+# SC - O(n)
+
+class Solution:
+    def maximumEnergy(self, energy: List[int], k: int) -> int:
+        n = len(energy)
+
+        dp = [i for i in energy]
+
+        for i in range(n - 1, -1, -1):
+            if i + k < n:
+                dp[i] = dp[i + k] + energy[i]
+
+        return max(dp)
