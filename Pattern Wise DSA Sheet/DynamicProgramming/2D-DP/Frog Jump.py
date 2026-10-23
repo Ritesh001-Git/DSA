@@ -33,3 +33,43 @@ class Solution:
             return False
 
         return solve(1, 1)
+
+# Approach 1 - Top - Down
+# TC - O(n^2)
+# SC - O(n^2)
+
+from functools import lru_cache
+class Solution:
+    def canCross(self, stones: list[int]) -> bool:
+        n = len(stones)
+
+        if n == 1:
+            return True
+
+        if stones[1] != 1:
+            return False
+
+        mp = {stones[i]: i for i in range(n)}
+
+        dp = [[False] * (n + 2) for _ in range(n)]
+
+        # Base case - reaching the last stone
+        for k in range(n + 2):
+            dp[n - 1][k] = True
+
+        for idx in range(n - 2, 0, -1):
+            for k in range(1, n + 1):
+
+                if stones[idx] + k in mp:
+                    if dp[mp[stones[idx] + k]][k]:
+                        dp[idx][k] = True
+
+                if stones[idx] + k + 1 in mp:
+                    if dp[mp[stones[idx] + k + 1]][k + 1]:
+                        dp[idx][k] = True
+
+                if k - 1 > 0 and stones[idx] + k - 1 in mp:
+                    if dp[mp[stones[idx] + k - 1]][k - 1]:
+                        dp[idx][k] = True
+
+        return dp[1][1]
