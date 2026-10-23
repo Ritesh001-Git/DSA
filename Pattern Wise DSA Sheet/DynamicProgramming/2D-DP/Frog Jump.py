@@ -34,7 +34,7 @@ class Solution:
 
         return solve(1, 1)
 
-# Approach 1 - Top - Down
+# Approach 1 - Bottom - Up
 # TC - O(n^2)
 # SC - O(n^2)
 
