@@ -35,6 +35,8 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - [2D Grid DP](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/DynamicProgramming/2D-GridDP)
 - [Game Theory](https://github.com/Ritesh001-Git/DSA/tree/main/Pattern%20Wise%20DSA%20Sheet/DynamicProgramming/Game%20Theory)
 
+### 2. [Graph]
+
 
 ## [🧠 NeetCode 150](https://neetcode.io/practice?tab=neetcode150) 
 
