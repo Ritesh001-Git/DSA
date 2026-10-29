@@ -66,3 +66,22 @@ class Solution {
         return solve(grid,m-1,n-1,0,dp);
     }
 }
+
+
+class Solution:
+    def minCost(self, grid: list[list[int]]) -> int:
+        n, m = len(grid), len(grid[0])
+
+        dp = [[set() for _ in range(m)] for _ in range(n)]
+        dp[0][0].add(grid[0][0])
+
+        for i in range(n):
+            for j in range(m):
+                for x in dp[i][j]:
+                    if j + 1 < m:
+                        dp[i][j + 1].add(x ^ grid[i][j + 1])
+
+                    if i + 1 < n:
+                        dp[i + 1][j].add(x ^ grid[i + 1][j])
+
+        return min(dp[n - 1][m - 1])
