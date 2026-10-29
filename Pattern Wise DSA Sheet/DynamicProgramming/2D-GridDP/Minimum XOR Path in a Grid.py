@@ -1,7 +1,6 @@
-# R = number of rows, C = number of columns, and K = 1024 = number of possible XOR states.
-# TC - O(R * C * K)
-
 # Approach 1 - Memo + Recursion
+# TC: O(nmK)
+# SC: O(nmK)
 
 # Python Code
 from array import array
@@ -67,6 +66,9 @@ class Solution {
     }
 }
 
+# Approach 2 - Tabulation
+# TC: O(nmK)
+# SC: O(nmK)
 
 class Solution:
     def minCost(self, grid: list[list[int]]) -> int:
