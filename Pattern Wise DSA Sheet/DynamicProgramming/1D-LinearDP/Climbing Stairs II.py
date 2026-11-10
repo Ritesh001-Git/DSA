@@ -1,6 +1,6 @@
-Approach - 
-Time complexity: \(O(n)\)
-Space complexity: \(O(n)\)
+# Approach 1 - Recursion + memo
+# Time complexity: O(n)
+# Space complexity: O(n)
 
 from functools import lru_cache
 class Solution:
